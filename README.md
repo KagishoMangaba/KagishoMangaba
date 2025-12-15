@@ -1,4 +1,20 @@
-## Hi there 👋
+👋 Hi, I’m Kagisho Mangaba
+
+QA Automation Engineer with a strong interest in building scalable, maintainable test frameworks and improving test reliability.
+
+🛠️ Tech Stack
+Java
+Selenium WebDriver
+TestNG
+Cucumber
+REST Assured
+Maven
+Git
+GitHub Actions
+
+🌱 About Me
+
+I enjoy experimenting with new automation frameworks, learning by building, and spending time hiking when I’m offline.
 
 <!--
 **KagishoMangaba/KagishoMangaba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
