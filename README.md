@@ -3,13 +3,21 @@
 QA Automation Engineer with a strong interest in building scalable, maintainable test frameworks and improving test reliability.
 
 🛠️ Tech Stack
+
 Java
+
 Selenium WebDriver
+
 TestNG
+
 Cucumber
+
 REST Assured
+
 Maven
+
 Git
+
 GitHub Actions
 
 🌱 About Me
