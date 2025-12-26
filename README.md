@@ -13,6 +13,19 @@ QA Automation Engineer with a strong interest in building scalable, maintainable
 - Git
 - GitHub Actions
 
+🛠️ build & DevOps
+  
+- Maven
+- Git
+- GitHub Actions
+- Docker
+- Jenkins
+- AWS EC2
+
+Process & Tools
+- Git / GitHub (feature-branch workflow)
+- Agile / Scrum 
+
 🌱Fun facts About Me
 
 - I enjoy experimenting with new automation frameworks, learning by building, and spending time hiking when I’m offline.
@@ -28,6 +41,7 @@ QA Automation Engineer with a strong interest in building scalable, maintainable
 - Learning API testing with REST Assured
 - Leveling up automation skills with cloud tools (Docker, AWS)
 - Sharpening my existing testing skills
+- Enhancing framework architecture, test stability, and cloud integration
 
 <!--
 **KagishoMangaba/KagishoMangaba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
