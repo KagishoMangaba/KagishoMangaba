@@ -1,6 +1,8 @@
 👋 Hi, I’m Kagisho Mangaba
 
-QA Automation Engineer with a strong interest in building scalable, maintainable test frameworks and improving test reliability.
+QA Automation Engineer with a strong interest in building scalable, maintainable test frameworks and improving test reliability. 
+I am looking forward to expanding my skills in DevOps practices,
+such as CI/CD implementation and automated deployment, to deliver faster, more reliable software and contribute to high-performing engineering teams.
 
 🛠️ Tech Stack
 
