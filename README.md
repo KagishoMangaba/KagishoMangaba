@@ -1,6 +1,6 @@
 👋 Hi, I’m Kagisho Mangaba
 
-QA Automation Engineer passionate about building scalable, maintainable test frameworks and improving test reliability. I’m expanding into DevOps practices like CI/CD and cloud automation to deliver faster, more reliable software and contribute to higher performing engineering teams.
+SQA Engineer passionate about building scalable, maintainable test frameworks and improving test reliability. I’m expanding into DevOps practices like CI/CD and cloud automation to deliver faster, more reliable software and contribute to higher performing engineering teams.
 
 🛠️ Tech Stack
 
@@ -8,7 +8,7 @@ Languages & Automation:
 - Java, Selenium WebDriver, TestNG, Cucumber, REST Assured
 
 Build & DevOps:
-- Maven, Git, GitHub Actions, Docker, Jenkins, AWS EC2
+- Maven, Git, GitHub Actions, Docker, Jenkins
 
 Process & Tools:
 - Agile / Scrum, Feature-branch Git workflow
