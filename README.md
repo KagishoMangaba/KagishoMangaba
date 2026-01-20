@@ -8,12 +8,12 @@ Languages & Automation:
 - Java, Selenium WebDriver, TestNG, Cucumber, REST Assured
 
 Build & DevOps:
-- Maven, Git, GitHub Actions, Docker, Jenkins
+- Maven, Git, GitHub Actions, Jenkins
 
 Process & Tools:
 - Agile / Scrum, Feature-branch Git workflow
 
-🌱 Fun Facts
+🌱 Fun Facts about me
 
 - I enjoy experimenting with new frameworks and learning by building.
 - I automate web projects for friends to practice and improve my skills.
@@ -23,11 +23,13 @@ Process & Tools:
 🔭 Currently Working On
 
 - ISTQB certification
+- CompTia A+
 - Advanced API testing with REST Assured
 - Cloud-based automation (Docker, AWS)
 - Enhancing framework architecture, test stability, and CI/CD integrationn
 - Integrating automated smoke/regression pipelines into GitHub Actions
-- Parallel test execution & cross-browser automation using Selenium Grid, Docker & Playwright
+- Parallel test execution & cross-browser automation using Selenium Grid, Docker
+  
 <!--
 **KagishoMangaba/KagishoMangaba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
