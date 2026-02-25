@@ -22,7 +22,6 @@ Process & Tools:
 
 🔭 Currently Working On
 
-- ISTQB certification
 - CompTia A+
 - Advanced API testing with REST Assured
 - Cloud-based automation (Docker, AWS)
