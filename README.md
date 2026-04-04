@@ -4,13 +4,20 @@ SQA Engineer passionate about building scalable, maintainable test frameworks an
 
 🛠️ Tech Stack
 
-Languages & Automation:
-- Java, Selenium WebDriver, TestNG, Cucumber, REST Assured
+**Languages:**
 
-Build & DevOps:
-- Maven, Git, GitHub Actions, Jenkins
+- Java, TypeScript, JavaScript
 
-Process & Tools:
+**Automation & Testing Tools:**
+
+- Selenium WebDriver, Playwright, TestNG, Cucumber, REST Assured, Postman
+
+**Build & DevOps:**
+
+- Maven, Git, GitHub Actions, Jenkins, Docker, AWS
+
+**Process & Methodologies:**
+
 - Agile / Scrum, Feature-branch Git workflow
 
 🌱 Fun Facts about me
